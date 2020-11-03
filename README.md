@@ -131,3 +131,67 @@
 | XHTML |
 | Zend |
 | Zend Framework |
+
+| Backend |
+| -- |
+| .NET |
+| .NET Core |
+| ActionScript |
+| Ada |
+| Apollo |
+| Arduino |
+| Assembly |
+| Assembly Language |
+| C |
+| C# |
+| C/C++ |
+| C++ |
+| CCL |
+| Cobol |
+| CoffeeScript |
+| Cypher |
+| Dart |
+| Delphi |
+| Elixir |
+| Erlang |
+| F# |
+| Go |
+| Golang |
+| Groovy |
+| Hack |
+| Haskell |
+| Haxe |
+| Hibernate |
+| Java |
+| JavaFX |
+| Julia |
+| Lisp |
+| Lua |
+| Maple |
+| Nest.js |
+| Node.js |
+| Perl |
+| PHP |
+| Python |
+| R |
+| RabbitMQ |
+| Refit |
+| RPG |
+| Ruby |
+| Ruby On Rails |
+| Rust |
+| Scala |
+| SignalR |
+| Spring |
+| Swagger |
+| TensorFlow |
+| Tomcat |
+| VB.NET |
+| VB6 |
+| VBA |
+| VBscript |
+| Verylog |
+| Visual Basic |
+| WADL |
+| WCF |
+| Xtend |
