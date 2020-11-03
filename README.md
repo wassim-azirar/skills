@@ -428,3 +428,70 @@
 | Windows 8 |
 | Windows Server |
 | Windows XP |
+
+# QA & Testing
+| Name |
+| -- |
+| Appium |
+| Arquillian |
+| AutoIt |
+| Bazel |
+| Behat |
+| BlazeMeter |
+| Browsersync |
+| Calabash |
+| CasperJS |
+| Chai |
+| Charles |
+| Codacy |
+| Cucumber |
+| Cypress |
+| DBUnit |
+| E2E |
+| EasyMock |
+| Enzyme |
+| FitNesse |
+| Gatling |
+| Gherkin |
+| Jasmine |
+| JBehave |
+| Jest |
+| JMeter |
+| Jtest |
+| JUnit |
+| Karma |
+| Katalon |
+| LoadUI |
+| Mocha |
+| Mockito |
+| NeoLoad |
+| Nightwatch.js |
+| NodeUnit |
+| NUnit |
+| Pa11y |
+| PhantomJS |
+| PHPUnit |
+| Postman |
+| Protractor |
+| PyTest |
+| qTest |
+| Quality Center |
+| QUnit |
+| Ranorex |
+| ReportNG |
+| Robolectric |
+| RSpec |
+| Selenium |
+| Serverspec |
+| Sinon |
+| SoapUI |
+| SpecFlow |
+| SpiraTest |
+| Spock |
+| TestLink |
+| TestNG |
+| Watin |
+| Watir |
+| WebDriver |
+| XCUITest |
+| Zombie |
