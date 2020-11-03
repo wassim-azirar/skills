@@ -263,3 +263,139 @@
 | Titan |
 | T-SQL |
 | VoltDB |
+
+# DevOps
+| Name |
+| -- |
+| ADFS |
+| Akamai |
+| Amazon ECS |
+| Amazon S3 |
+| Amazon Web Services |
+| AMQP |
+| Ansible |
+| Apache |
+| API Gateway |
+| AppFabric |
+| AS2 |
+| AWS |
+| Azure |
+| Bamboo |
+| Bash |
+| Bazel |
+| BGP |
+| BMC |
+| Buddy |
+| Cacti |
+| CDN |
+| CFEngine |
+| Chef |
+| CI/CD |
+| CircleCI |
+| Cloud Foundry |
+| CloudFront |
+| CloudStack |
+| Codeship |
+| Consul |
+| Containers |
+| Datadog |
+| DHCP |
+| DigitalOcean |
+| DNS |
+| Docker |
+| DOS |
+| Dovecot |
+| Drone |
+| Filewall |
+| FileZilla |
+| FTP |
+| Ganglia |
+| GCP |
+| GCP |
+| GeoServer |
+| Git |
+| Github |
+| Gitlab CI |
+| GoCD |
+| Google Cloud Platform |
+| Gradle |
+| Gunicorn |
+| HAProxy |
+| Heroku |
+| HTTP |
+| HTTPS |
+| Hudson |
+| IBM Cloud |
+| Icinga |
+| IIS |
+| IMAP |
+| IPsec |
+| iptables |
+| Istio |
+| JConsole |
+| Jenkins |
+| Juju |
+| Kerberos |
+| Kibana |
+| Kubernetes |
+| KVM |
+| LAN |
+| LDAP |
+| Load Balancer |
+| make |
+| Maven |
+| MCollective |
+| Mercurial |
+| Monitoring |
+| MQTT |
+| MRP |
+| Munin |
+| Nagios |
+| New Relic |
+| NFS |
+| Nginx |
+| OData |
+| OpenID |
+| OpenShift |
+| OpenSSL |
+| OpenStack |
+| OSPF |
+| PerfMon |
+| Perforce |
+| POP3 |
+| PowerShell |
+| ProFTPD |
+| Prometheus |
+| Puppet |
+| Rancher |
+| Raygun |
+| RDP |
+| RTP |
+| RUDDER |
+| Salt |
+| SaltStack |
+| Sensu |
+| Shell |
+| SMTP |
+| SNMP |
+| SolarWinds |
+| Sonar |
+| SonarQube |
+| Spring Cloud |
+| SQS |
+| Squid |
+| SSH |
+| SSIS |
+| STP |
+| Stunnel |
+| Subversion |
+| SVN |
+| TCP |
+| TeamCity |
+| Terraform |
+| TFS |
+| Travis CI |
+| Vagrant |
+| Varnish |
+| VRRP |
+| WDS |
