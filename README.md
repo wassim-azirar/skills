@@ -197,3 +197,69 @@
 | WADL |
 | WCF |
 | Xtend |
+
+# Database
+
+| Name |
+| -- |
+| Aerospike |
+| AllegroGraph |
+| Amazon DynamoDB |
+| Amazon RedShift |
+| ArangoDB |
+| Big Table |
+| Cassandra |
+| Cosmos DB |
+| Couchbase |
+| CouchDB |
+| CrateDB |
+| DB2 |
+| dBase |
+| DBMS |
+| Dgraph |
+| DocumentDB |
+| Druid |
+| DynamoDB |
+| ElastiCache |
+| ElasticSearch |
+| eXtremeDB |
+| Firebase |
+| Firebird |
+| FlockDB |
+| GraphDB |
+| Hazelcast |
+| HBase |
+| Hive |
+| IBM Graph |
+| InfluxDB |
+| Informix |
+| Ingres |
+| Kudu |
+| MariaDB |
+| MaxDB |
+| Membase |
+| Memcached |
+| MemSQL |
+| Microsoft Access |
+| MonetDB |
+| MongoDB |
+| MySQL |
+| Neo4j |
+| NoSQL |
+| Oracle |
+| OrientDB |
+| PL/SQL |
+| PostgreSQL |
+| Redis |
+| RethinkDB |
+| Riak |
+| Solr |
+| SQL |
+| SQL Azure |
+| SQL Server |
+| SQLite |
+| SSAS |
+| Teradata |
+| Titan |
+| T-SQL |
+| VoltDB |
