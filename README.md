@@ -399,3 +399,32 @@
 | Varnish |
 | VRRP |
 | WDS |
+
+# Operation System
+
+| Name |
+| -- |
+| AIX |
+| CentOS |
+| Debian |
+| Fedora |
+| FreeBSD |
+| iOS |
+| Linux |
+| macOS |
+| Mandriva |
+| openSUSE |
+| QNX |
+| Redhat |
+| RHEL |
+| SailfishOS |
+| Solaris |
+| Solus |
+| SunOS |
+| Ubuntu |
+| Unix |
+| Windows 10 |
+| Windows 7 |
+| Windows 8 |
+| Windows Server |
+| Windows XP |
