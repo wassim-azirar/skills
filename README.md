@@ -303,6 +303,7 @@
 | DigitalOcean |
 | DNS |
 | Docker |
+| Docker Compose |
 | DOS |
 | Dovecot |
 | Drone |
@@ -432,6 +433,7 @@
 # QA & Testing
 | Name |
 | -- |
+| Altair |
 | Appium |
 | Arquillian |
 | AutoIt |
@@ -453,12 +455,14 @@
 | FitNesse |
 | Gatling |
 | Gherkin |
+| GraphiQL |
 | Jasmine |
 | JBehave |
 | Jest |
 | JMeter |
 | Jtest |
 | JUnit |
+| Karate |
 | Karma |
 | Katalon |
 | LoadUI |
@@ -597,3 +601,12 @@
 | Unreal |
 | UnrealScript |
 | WebGL |
+
+# Agility
+| Name |
+| -- |
+| Kanban |
+| Lean |
+| SAFe |
+| Scrum |
+| XP |
