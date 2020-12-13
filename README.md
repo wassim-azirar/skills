@@ -504,12 +504,19 @@
 | ADT |
 | Alamofire |
 | Android |
+| AndroidX |
+| Android Jetpack |
+| Android Navigation |
+| Jetpack Compose |
+| WorkManager |
+| CameraX |
 | ARKit |
 | Bitrise |
 | ButterKnife |
 | Cocoa |
 | Cordova  |
 | Dagger |
+| Hilt |
 | Expo |
 | FastLane |
 | Flutter |
@@ -542,6 +549,13 @@
 | watchOS |
 | Xamarin |
 | Xcode |
+| Android Studio |
+| Room |
+| LiveData |
+| ViewModel |
+| Coroutines |
+| DataBinding |
+| ViewBinding |
 
 # Game
 | Name |
