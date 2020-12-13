@@ -556,7 +556,6 @@
 | Swift              |
 | Titanium           |
 | ViewBinding        |
-| ViewModel          |
 | WatchKit           |
 | watchOS            |
 | WorkManager        |
